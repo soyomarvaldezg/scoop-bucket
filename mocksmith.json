@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/soyomarvaldezg/mocksmith/releases/download/v0.1.2/mocksmith_0.1.2_windows_amd64.zip",
+            "url": "https://github.com/soyomarvaldezg/mocksmith/releases/download/v0.1.3/mocksmith_0.1.3_windows_amd64.zip",
             "bin": [
                 "mocksmith.exe"
             ],
-            "hash": "ddaf44ca6d7f614e15ad8622c6145146900a610a9d401496b92363383a3a7b3a"
+            "hash": "d0f75418b283407159fcc21a9789c5b3899c8c9182eacbc0a22cc1bd6b3b6fcf"
         },
         "arm64": {
-            "url": "https://github.com/soyomarvaldezg/mocksmith/releases/download/v0.1.2/mocksmith_0.1.2_windows_arm64.zip",
+            "url": "https://github.com/soyomarvaldezg/mocksmith/releases/download/v0.1.3/mocksmith_0.1.3_windows_arm64.zip",
             "bin": [
                 "mocksmith.exe"
             ],
-            "hash": "817a8b716a1311062218b705d508157a31bb6d47b91d784a268e1611d91dfc11"
+            "hash": "cf3a4f30be3e467aa9870fe84335467cdd493d76455e04b980714d81d571b703"
         }
     },
     "homepage": "https://github.com/soyomarvaldezg/mocksmith",
