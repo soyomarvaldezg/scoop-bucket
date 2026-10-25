@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/soyomarvaldezg/mocksmith/releases/download/v0.1.1/mocksmith_0.1.1_windows_amd64.zip",
+            "bin": [
+                "mocksmith.exe"
+            ],
+            "hash": "03f0b5f9194a6071ac1ba5adb4bd46c860659367ee008f0dce81162ae5cbba5c"
+        },
+        "arm64": {
+            "url": "https://github.com/soyomarvaldezg/mocksmith/releases/download/v0.1.1/mocksmith_0.1.1_windows_arm64.zip",
+            "bin": [
+                "mocksmith.exe"
+            ],
+            "hash": "7db403777efca3848b7f709ecfe577e80437ea679a47fd7ee6d26d041ba242c8"
+        }
+    },
+    "homepage": "https://github.com/soyomarvaldezg/mocksmith",
+    "license": "MIT",
+    "description": "Generate realistic fake data for testing, demos, and data engineering pipelines."
+}
